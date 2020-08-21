@@ -1,0 +1,16 @@
+{
+    "name": "common",
+    "version": "1.0.0",
+    "files": [
+        "dist/**/*.js"
+    ],
+    "dependencies": {
+        "moment": "^2.27.0"
+    },
+    "devDependencies": {
+        "typescript": "^4.0.2"
+    },
+    "scripts": {
+        "build": "tsc"
+    }
+}
